@@ -14,7 +14,7 @@
 
 <p style="text-align: center;"><font color="blue"><span style="font-family:courier new,courier,monospace;">A new type of streaming service. Because you matter.</span></font></p>
 
-<p style="text-align: center;"><button onclick="window.location.href = 'https://spaceferret.github.io/login.html';"><font color="blue">Watch now!</font></button></p>
+<p style="text-align: center;"><button onclick="window.location.href = 'https://spaceferret.herokuapp.com/registration/login.php';"><font color="blue">Watch now!</font></button></p>
 
 <p><font color="blue">&nbsp;</font></p>
 </body>
