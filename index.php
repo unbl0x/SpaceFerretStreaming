@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
   <head>
-    <title>SpaceFerret Networl</title>
+    <title>SpaceFerret Network</title>
   </head>
   <body>
     <h1>This is a work in progress</h1>
